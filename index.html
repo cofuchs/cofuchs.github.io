@@ -45,10 +45,14 @@
   
   <h2>Meine Projekte</h2>
   <ul>
-    <li>
-      <strong>Systemcheck-Skript:</strong> Ein kleines Tool, das prüft, ob wichtige Dienste auf meinem System laufen.  
-      👉 <a href="https://github.com/cofuchs/system-check" target="_blank">Zum GitHub-Projekt</a>
-    </li>
+   <h3>Systemcheck-Code (Auszug)</h3>
+<pre><code>
+Write-Host "===== Systeminformationen ====="
+Write-Host "Betriebssystem: $(Get-CimInstance Win32_OperatingSystem | Select-Object -ExpandProperty Caption)"
+Write-Host "Computername: $env:COMPUTERNAME"
+Write-Host "Benutzer: $env:USERNAME"
+Write-Host "CPU: $(Get-CimInstance Win32_Processor | Select-Object -ExpandProperty Name)"
+</code></pre>
     <li>
       <strong>Netzwerkdokumentation:</strong> Beispiel für den Aufbau eines Heimnetzwerks mit IP-Adressvergabe.  
       👉 <a href="https://github.com/cofuchs/netzwerk-doku" target="_blank">Zur Doku</a>
@@ -60,6 +64,7 @@
 
 </body>
 </html>
+
 
 
 
