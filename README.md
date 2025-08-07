@@ -24,7 +24,7 @@ Ich arbeite praxisnah, lerne schnell und dokumentiere meinen Fortschritt in Form
 
 Ein einfaches Tool, das grundlegende Informationen über das System ausliest.
 
-→ [Zum Projektordner](./systemcheck.ps1)
+→ [Zum Projektordner](./https://github.com/cofuchs/systemcheck-skript)
 
 ---
 
