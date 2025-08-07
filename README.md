@@ -24,7 +24,7 @@ Ich arbeite praxisnah, lerne schnell und dokumentiere meinen Fortschritt in Form
 
 Ein einfaches Tool, das grundlegende Informationen über das System ausliest.
 
-→ [Zum Systemcheck-Projekt (Repository)](https://github.com/coofuchs/systemcheck-skript)
+→ [Zum Systemcheck-Projekt (Repository)](https://github.com/cofuchs/systemcheck-skript)
 
 ---
 
@@ -32,7 +32,7 @@ Ein einfaches Tool, das grundlegende Informationen über das System ausliest.
 
 Ein Projekt rund um grundlegende Sicherheitsprinzipien. 
 
-→ [Zum Sicherheitsprojekt (Repository)](https://github.com/coofuchs/security-header-checker)
+→ [Zum Sicherheitsprojekt (Repository)](https://github.com/cofuchs/security-header-checker)
 
 ---
 
