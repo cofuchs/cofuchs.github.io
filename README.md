@@ -24,13 +24,15 @@ Ich arbeite praxisnah, lerne schnell und dokumentiere meinen Fortschritt in Form
 
 Ein einfaches Tool, das grundlegende Informationen über das System ausliest.
 
-→ [Zum Projektordner](./systemcheck)
+→ [Zum Projektordner](./systemcheck.ps1)
 
 ---
 
 ### Sicherheit & ethisches Hacking (Projekt 2)
 
-Ein Projekt rund um grundlegende Sicherheitsprinzipien.  
+Ein Projekt rund um grundlegende Sicherheitsprinzipien. 
+
+→ [Zum Projektordner](./headercheck.py)
 
 ---
 
